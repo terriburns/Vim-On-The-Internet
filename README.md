@@ -9,14 +9,14 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 
 - Gmail ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en))
 
-- <a href="http://gmail.com">Gmail</a> (turn on keyboard commands)
-
 - <a href="http://twitter.com">Twitter</a>
 
 - <a href="http://tumblr.com">Tumblr</a>
+
+- <a href = "https://duckduckgo.com/"> DuckDuckGo </a>
 
 ## Extensions
 
 To further spread the functionality, people've made extensions for web browsers that provide a suite of Vim keyboard bindings.
 
- - **VimFx** for Firefox [source](https://github.com/akhodakivskiy/VimFx),  [addon page](https://addons.mozilla.org/en-us/firefox/addon/vimfx).
+- **VimFx** for Firefox [source](https://github.com/akhodakivskiy/VimFx),  [addon page](https://addons.mozilla.org/en-us/firefox/addon/vimfx).
