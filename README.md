@@ -5,7 +5,7 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 
 - Facebook
 
-- Gmail (turn on keyboard commands)
+- Gmail ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en))
 
 - Twitter
 
