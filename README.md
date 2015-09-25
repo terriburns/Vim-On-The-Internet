@@ -7,6 +7,8 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 
 - <a href="http://github.com">Github</a> 
 
+- Gmail ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en))
+
 - <a href="http://gmail.com">Gmail</a> (turn on keyboard commands)
 
 - <a href="http://twitter.com">Twitter</a>
