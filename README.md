@@ -10,3 +10,5 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 - Twitter
 
 - Tumblr
+
+- Github (hit <kbd>?</kbd> to view more options)
