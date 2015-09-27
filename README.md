@@ -10,7 +10,7 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 
 - <a href="http://github.com">Github</a> 
 
-- <a href="http://gmail.com">Gmail</a> ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en))
+- Google (specifically): <a href="http://gmail.com">Gmail</a> ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en)), <a href="http://plus.google.com">Google+</a>, <a href="http://calendar.google.com">Calendar</a>, <a href="http://drive.google.com">Drive</a>
 
 - <a href="http://jira.com">Jira</a> (for navigating issues)
 
@@ -21,8 +21,6 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 - <a href="http://twitter.com">Twitter</a>
 
 - <a href="http://9gag.com">9gag</a>
-
-- <a href="http://plus.google.com">Google+</a>
 
 
 
