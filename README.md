@@ -30,3 +30,6 @@ To further spread the functionality, people've made extensions for web browsers 
 - **VimFx** for Firefox [source](https://github.com/akhodakivskiy/VimFx),  [addon page](https://addons.mozilla.org/en-us/firefox/addon/vimfx).
 
 - **Vimperator** for Firefox [source](https://github.com/vimperator/vimperator-labs), [addon page](https://addons.mozilla.org/en-US/firefox/addon/vimperator/)
+
+- **Vimium** for Chrome [source] (https://github.com/philc/vimium) [addon page] (https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) 
+
