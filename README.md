@@ -2,24 +2,29 @@
 
 Here's a list of popular web pages that use vim bindings to navigate the site. (Typically this just means you can use `j` and `k` to navigate up and down.) Why? For fun. <a href="https://twitter.com/iamdevloper/status/588355053104267264">Vim vim vim<a/>. Submit a PR or make an issue to help keep this repo thorough + up to date.
 
-- <a href="https://asana.com">Asana</a>
+- [Asana](https://asana.com)
 
-- <a href = "https://duckduckgo.com/"> DuckDuckGo </a>
+- [DuckDuckGo](https://duckduckgo.com/)
 
-- <a href="http://facebook.com">Facebook</a>
+- [Facebook](http://facebook.com)
 
-- <a href="http://github.com">Github</a> 
-- Google (specifically): <a href="http://gmail.com">Gmail</a> ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en)), <a href="https://inbox.google.com/">Google Inbox</a>, <a href="http://plus.google.com">Google+</a>, <a href="http://calendar.google.com">Calendar</a>, <a href="http://drive.google.com">Drive</a>
+- [GitHub](http://github.com) 
 
-- <a href="http://jira.com">Jira</a> (for navigating issues)
+- Google (specifically): [Gmail](http://gmail.com) ([turn on keyboard commands](https://support.google.com/mail/answer/6594?hl=en)), [Google Inbox](https://inbox.google.com/), [Google+](http://plus.google.com), [Calendar](http://calendar.google.com), [Drive](http://drive.google.com)
 
-- <a href="http://trello.com">Trello</a>
+- [Jira](http://jira.com) (for navigating issues)
 
-- <a href="http://tumblr.com">Tumblr</a>
+- [Outlook](http://windows.microsoft.com/en-us/windows/outlook/keyboard-shortcuts)
+ 
+- [Remember the Milk](http://www.rememberthemilk.com/help/?ctx=basics.basics.keyboard)
 
-- <a href="http://twitter.com">Twitter</a>
+- [Trello](http://trello.com)
 
-- <a href="http://9gag.com">9gag</a>
+- [Tumblr](http://tumblr.com)
+
+- [Twitter](http://twitter.com)
+
+- [9gag](http://9gag.com)
 
 
 
