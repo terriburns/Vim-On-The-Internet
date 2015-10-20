@@ -22,7 +22,7 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 
 - [Tumblr](http://tumblr.com)
 
-- [Twitter](http://twitter.com)
+- [Twitter](http://twitter.com) / [TweetDeck](https://tweetdeck.twitter.com)
 
 - [9gag](http://9gag.com)
 
