@@ -24,6 +24,8 @@ Here's a list of popular web pages that use vim bindings to navigate the site. (
 
 - [Twitter](http://twitter.com) / [TweetDeck](https://tweetdeck.twitter.com)
 
+- [2048](https://gabrielecirulli.github.io/2048/)
+
 - [9gag](http://9gag.com)
 
 
