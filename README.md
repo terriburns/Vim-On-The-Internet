@@ -40,3 +40,7 @@ To further spread the functionality, people've made extensions for web browsers 
 
 - **Vimium** for Chrome [source] (https://github.com/philc/vimium) [addon page] (https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) 
 
+
+## Misc
+
+- [IntelliJ](https://www.jetbrains.com/idea/)
